@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server/ser.js",
     "test": "mocha server/**/*.test.js"
+  },
+  "engine": {
+    "node": "8.9.2"
   },
   "author": "",
   "license": "ISC",
