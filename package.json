@@ -20,9 +20,9 @@
     "mongoose": "^5.0.0-rc1"
   },
   "devDependencies": {
-    "expect": "^22.0.3",
-    "mocha": "^4.1.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.0.2",
     "nodemon": "^1.10.2",
-    "supertest": "^3.0.0"
+    "supertest": "^2.0.0"
   }
 }
